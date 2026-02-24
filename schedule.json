@@ -572,7 +572,8 @@
                         {
                             "title": "Odliczanie do zbiórki",
                             "offsetMinutes": 105,
-                            "durationMinutes": 5
+                            "durationMinutes": 5,
+                            "showCountdown": true
                         },
                         {
                             "title": "Zbiórka",
@@ -718,7 +719,8 @@
                         {
                             "title": "Odliczanie do zbiórki",
                             "offsetMinutes": 105,
-                            "durationMinutes": 5
+                            "durationMinutes": 5,
+                            "showCountdown": true
                         },
                         {
                             "title": "Zbiórka",

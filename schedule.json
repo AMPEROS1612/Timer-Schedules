@@ -570,7 +570,7 @@
                     "color": "#305054",
                     "items": [
                         {
-                            "title": "Czas do zbiórki",
+                            "title": "Odliczanie do zbiórki",
                             "offsetMinutes": 105,
                             "durationMinutes": 5
                         },
@@ -599,7 +599,7 @@
                             "durationMinutes": 1
                         },
                         {
-                            "title": "1. „Nie bój się słów, które usłyszałeś”",
+                            "title": "1. „Będzie się troszczył o swoją trzodę niczym pasterz”",
                             "offsetMinutes": 6,
                             "durationMinutes": 10
                         },
@@ -628,17 +628,27 @@
                         {
                             "title": "4. Rozpoczynanie rozmowy",
                             "offsetMinutes": 31,
-                            "durationMinutes": 3
+                            "durationMinutes": 2
                         },
                         {
                             "title": "Porady",
-                            "offsetMinutes": 34,
+                            "offsetMinutes": 33,
                             "durationMinutes": 1
                         },
                         {
                             "title": "5. Rozpoczynanie rozmowy",
-                            "offsetMinutes": 35,
-                            "durationMinutes": 4
+                            "offsetMinutes": 34,
+                            "durationMinutes": 2
+                        },
+                        {
+                            "title": "Porady",
+                            "offsetMinutes": 36,
+                            "durationMinutes": 1
+                        },
+                        {
+                            "title": "6. Podtrzymywanie zainteresowania",
+                            "offsetMinutes": 37,
+                            "durationMinutes": 2
                         },
                         {
                             "title": "Porady",
@@ -646,7 +656,7 @@
                             "durationMinutes": 1
                         },
                         {
-                            "title": "6. Wyjaśnianie swoich wierzeń ",
+                            "title": "7. Pozyskiwanie uczniów",
                             "offsetMinutes": 40,
                             "durationMinutes": 5
                         },
@@ -663,12 +673,12 @@
                     "color": "#932824",
                     "items": [
                         {
-                            "title": "7. „Komu zaufałeś?”",
+                            "title": "8. Sprawozdanie roczne ze służby ",
                             "offsetMinutes": 51,
                             "durationMinutes": 15
                         },
                         {
-                            "title": "10. Zborowe studium Biblii",
+                            "title": "9. Zborowe studium Biblii ",
                             "offsetMinutes": 66,
                             "durationMinutes": 30
                         },
@@ -685,25 +695,35 @@
             "parts": [
                 {
                     "partNumber": 1,
-                    "title": "Wykład",
+                    "title": "Zebranie",
                     "color": "#305054",
                     "items": [
                         {
-                            "title": "Dlaczego można zaufać Biblii",
+                            "title": "Wykład",
                             "offsetMinutes": 5,
                             "durationMinutes": 30
+                        },
+                        {
+                            "title": "Studium Strażnicy",
+                            "offsetMinutes": 40,
+                            "durationMinutes": 60
                         }
                     ]
                 },
                 {
                     "partNumber": 2,
-                    "title": "Studium Strażnicy",
+                    "title": "Zbiórka",
                     "color": "#305054",
                     "items": [
                         {
-                            "title": "Naśladuj pokorę Jehowy",
-                            "offsetMinutes": 40,
-                            "durationMinutes": 60
+                            "title": "Odliczanie do zbiórki",
+                            "offsetMinutes": 105,
+                            "durationMinutes": 5
+                        },
+                        {
+                            "title": "Zbiórka",
+                            "offsetMinutes": 110,
+                            "durationMinutes": 5
                         }
                     ]
                 }

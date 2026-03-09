@@ -632,36 +632,29 @@
               }
             ]
           },
-          {}
-          5-
-          "partNumber"
-          :
-          2,
-          "title"
-          :
-          "Zbiórka",
-          "color"
-          :
-          "#305054",
-          "items"
-          :
-          [
-            {
-              "title": "Odliczanie do zbiórki",
-              "offsetMinutes": 105,
-              "durationMinutes": 5,
-              "showCountdown": true
-            },
-            {
-              "title": "Zbiórka",
-              "offsetMinutes": 110,
-              "durationMinutes": 5
-            }
-          ]
+          {
+            "partNumber": 2,
+            "title": "Zbiórka",
+            "color": "#305054",
+            "items": [
+              {
+                "title": "Odliczanie do zbiórki",
+                "offsetMinutes": 105,
+                "durationMinutes": 5,
+                "showCountdown": true
+              },
+              {
+                "title": "Zbiórka",
+                "offsetMinutes": 110,
+                "durationMinutes": 5
+              }
+            ]
+          }
+        ]
       }
-  ]
-} }, {
-  "weekStartDate": "2026-03-02",
+    },
+    {
+      "weekStartDate": "2026-03-02",
   "weekday": {
     "parts": [
       {
@@ -809,7 +802,7 @@
 },
 
 {
-  "weekStartDate": "2026-03-09,
+  "weekStartDate": "2026-03-09",
   "weekday": {
     "parts": [
       {
@@ -954,4 +947,6 @@
       }
     ]
   }
-} ] }
+    }
+  ]
+}

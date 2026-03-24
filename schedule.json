@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-03-22T08:35:00Z",
+  "lastUpdated": "2026-03-24T13:12:00Z",
   "weeks": [
     {
       "weekStartDate": "2026-01-26",
@@ -1178,7 +1178,8 @@
               {
                 "title": "8. Zborowe studium Biblii ",
                 "offsetMinutes": 66,
-                "durationMinutes": 30
+                "durationMinutes": 30,
+                "shortenByDelay": true
               },
               {
                 "title": "Uwagi końcowe",
@@ -1204,7 +1205,8 @@
               {
                 "title": "Studium Strażnicy",
                 "offsetMinutes": 40,
-                "durationMinutes": 60
+                "durationMinutes": 60,
+                "shortenByDelay": true
               }
             ]
           },
@@ -1263,7 +1265,8 @@
               {
                 "title": "Studium Strażnicy",
                 "offsetMinutes": 40,
-                "durationMinutes": 60
+                "durationMinutes": 60,
+                "shortenByDelay": true
               }
             ]
           },

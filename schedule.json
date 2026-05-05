@@ -1858,8 +1858,8 @@
         ]
       }
     },
-
-          "weekStartDate": "2026-04-",
+{
+          "weekStartDate": "2026-05-04",
       "weekday": {
         "parts": [
           {
@@ -1873,7 +1873,7 @@
                 "durationMinutes": 1
               },
               {
-                "title": "1. Cieszymy się, że Jehowa jest naszym Bogiem",
+                "title": "1. Jak w pełni zaznawać błogosławieństw Jehowy",
                 "offsetMinutes": 6,
                 "durationMinutes": 10
               },
@@ -1900,7 +1900,7 @@
             "color": "#AB7800",
             "items": [
               {
-                "title": "4. Rozpoczynanie rozmowy",
+                "title": "4.Rozpoczynanie rozmowy",
                 "offsetMinutes": 31,
                 "durationMinutes": 3
               },
@@ -1910,19 +1910,19 @@
                 "durationMinutes": 1
               },
               {
-                "title": "5. Wyjaśnianie swoich wierzeń",
+                "title": "5.Rozpoczynanie rozmowy",
                 "offsetMinutes": 35,
-                "durationMinutes": 5
+                "durationMinutes": 4
               },
               {
                 "title": "Porady",
-                "offsetMinutes": 40,
+                "offsetMinutes": 39,
                 "durationMinutes": 1
               },
               {
-                "title": "6. Pozyskiwanie uczniów",
-                "offsetMinutes": 41,
-                "durationMinutes": 4
+                "title": "6. Przemówienie",
+                "offsetMinutes": 40,
+                "durationMinutes": 5
               },
               {
                 "title": "Porady",
@@ -1937,7 +1937,7 @@
             "color": "#932824",
             "items": [
               {
-                "title": "7. Nigdy nie przestawaj mówić o Jehowie",
+                "title": "7. Prześcigajcie się w okazywaniu gościnności",
                 "offsetMinutes": 51,
                 "durationMinutes": 15
               },

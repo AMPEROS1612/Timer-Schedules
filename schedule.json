@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-05-04T14:13:00Z",
+  "lastUpdated": "2026-05-11T22:14:00Z",
   "weeks": [
     {
       "weekStartDate": "2026-01-26",
@@ -1720,7 +1720,7 @@
       }
     },
     {
-      "weekStartDate": "2026-05-04",
+      "weekStartDate": "2026-04-27",
       "weekday": {
         "parts": [
           {
@@ -1734,7 +1734,7 @@
                 "durationMinutes": 1
               },
               {
-                "title": "1. Jak w pełni zaznawać błogosławieństw Jehowy",
+                "title": "1. Cieszymy się, że Jehowa jest naszym Bogiem",
                 "offsetMinutes": 6,
                 "durationMinutes": 10
               },
@@ -1771,19 +1771,19 @@
                 "durationMinutes": 1
               },
               {
-                "title": "5. Rozpoczynanie rozmowy",
+                "title": "5. Wyjaśnianie swoich wierzeń",
                 "offsetMinutes": 35,
-                "durationMinutes": 4
+                "durationMinutes": 5
               },
               {
                 "title": "Porady",
-                "offsetMinutes": 39,
+                "offsetMinutes": 40,
                 "durationMinutes": 1
               },
               {
-                "title": "6. Przemówienie",
-                "offsetMinutes": 40,
-                "durationMinutes": 5
+                "title": "6. Pozyskiwanie uczniów",
+                "offsetMinutes": 41,
+                "durationMinutes": 4
               },
               {
                 "title": "Porady",
@@ -1798,7 +1798,7 @@
             "color": "#932824",
             "items": [
               {
-                "title": "7. „Prześcigajcie się w okazywaniu gościnności",
+                "title": "7. Nigdy nie przestawaj mówić o Jehowie",
                 "offsetMinutes": 51,
                 "durationMinutes": 15
               },
@@ -1858,8 +1858,435 @@
         ]
       }
     },
-{
-          "weekStartDate": "2026-05-04",
+    {
+      "weekStartDate": "2026-04-13",
+      "weekday": {
+        "parts": [
+          {
+            "partNumber": 1,
+            "title": "SKARBY ZE SŁOWA BOŻEGO",
+            "color": "#286975",
+            "items": [
+              {
+                "title": "Uwagi wstępne",
+                "offsetMinutes": 5,
+                "durationMinutes": 1
+              },
+              {
+                "title": "1. Jak wielką miłość okazał Jezus!",
+                "offsetMinutes": 6,
+                "durationMinutes": 10
+              },
+              {
+                "title": "2. Wyszukujemy duchowe skarby",
+                "offsetMinutes": 16,
+                "durationMinutes": 10
+              },
+              {
+                "title": "3. Czytanie Biblii",
+                "offsetMinutes": 26,
+                "durationMinutes": 4
+              },
+              {
+                "title": "Porady",
+                "offsetMinutes": 30,
+                "durationMinutes": 1
+              }
+            ]
+          },
+          {
+            "partNumber": 2,
+            "title": "ULEPSZAJMY SWOJĄ SŁUŻBĘ",
+            "color": "#AB7800",
+            "items": [
+              {
+                "title": "4. Rozpoczynanie rozmowy",
+                "offsetMinutes": 31,
+                "durationMinutes": 4
+              },
+              {
+                "title": "Porady",
+                "offsetMinutes": 35,
+                "durationMinutes": 1
+              },
+              {
+                "title": "5. Rozpoczynanie rozmowy",
+                "offsetMinutes": 36,
+                "durationMinutes": 3
+              },
+              {
+                "title": "Porady",
+                "offsetMinutes": 39,
+                "durationMinutes": 1
+              },
+              {
+                "title": "6. Podtrzymywanie zainteresowania",
+                "offsetMinutes": 40,
+                "durationMinutes": 5
+              },
+              {
+                "title": "Porady",
+                "offsetMinutes": 45,
+                "durationMinutes": 1
+              }
+            ]
+          },
+          {
+            "partNumber": 3,
+            "title": "CHRZEŚCIJAŃSKI TRYB ŻYCIA",
+            "color": "#932824",
+            "items": [
+              {
+                "title": "7. Zostań przyjacielem Jehowy: Największy dowód miłości",
+                "offsetMinutes": 51,
+                "durationMinutes": 15
+              },
+              {
+                "title": "8. Zborowe studium Biblii ",
+                "offsetMinutes": 66,
+                "durationMinutes": 30,
+                "shortenByDelay": true
+              },
+              {
+                "title": "Uwagi końcowe",
+                "offsetMinutes": 96,
+                "durationMinutes": 3
+              }
+            ]
+          }
+        ]
+      },
+      "sunday": {
+        "parts": [
+          {
+            "partNumber": 1,
+            "title": "Zebranie",
+            "color": "#305054",
+            "items": [
+              {
+                "title": "Wykład",
+                "offsetMinutes": 5,
+                "durationMinutes": 30
+              },
+              {
+                "title": "Studium Strażnicy",
+                "offsetMinutes": 40,
+                "durationMinutes": 60,
+                "shortenByDelay": true
+              }
+            ]
+          },
+          {
+            "partNumber": 2,
+            "title": "Zbiórka",
+            "color": "#305054",
+            "items": [
+              {
+                "title": "Odliczanie do zbiórki",
+                "offsetMinutes": 105,
+                "durationMinutes": 5,
+                "showCountdown": true
+              },
+              {
+                "title": "Zbiórka",
+                "offsetMinutes": 110,
+                "durationMinutes": 5
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "weekStartDate": "2026-04-20",
+      "weekday": {
+        "parts": [
+          {
+            "partNumber": 1,
+            "title": "SKARBY ZE SŁOWA BOŻEGO",
+            "color": "#286975",
+            "items": [
+              {
+                "title": "Uwagi wstępne",
+                "offsetMinutes": 5,
+                "durationMinutes": 1
+              },
+              {
+                "title": "1. Ile jesteś gotowy zapłacić?",
+                "offsetMinutes": 6,
+                "durationMinutes": 10
+              },
+              {
+                "title": "2. Wyszukujemy duchowe skarby",
+                "offsetMinutes": 16,
+                "durationMinutes": 10
+              },
+              {
+                "title": "3. Czytanie Biblii",
+                "offsetMinutes": 26,
+                "durationMinutes": 4
+              },
+              {
+                "title": "Porady",
+                "offsetMinutes": 30,
+                "durationMinutes": 1
+              }
+            ]
+          },
+          {
+            "partNumber": 2,
+            "title": "ULEPSZAJMY SWOJĄ SŁUŻBĘ",
+            "color": "#AB7800",
+            "items": [
+              {
+                "title": "4. Rozpoczynanie rozmowy",
+                "offsetMinutes": 31,
+                "durationMinutes": 2
+              },
+              {
+                "title": "Porady",
+                "offsetMinutes": 33,
+                "durationMinutes": 1
+              },
+              {
+                "title": "5. Rozpoczynanie rozmowy",
+                "offsetMinutes": 34,
+                "durationMinutes": 2
+              },
+              {
+                "title": "Porady",
+                "offsetMinutes": 36,
+                "durationMinutes": 1
+              },
+              {
+                "title": "6. Podtrzymywanie zainteresowania",
+                "offsetMinutes": 37,
+                "durationMinutes": 2
+              },
+              {
+                "title": "Porady",
+                "offsetMinutes": 39,
+                "durationMinutes": 1
+              },
+              {
+                "title": "7. Przemówienie",
+                "offsetMinutes": 40,
+                "durationMinutes": 5
+              },
+              {
+                "title": "Porady",
+                "offsetMinutes": 45,
+                "durationMinutes": 1
+              }
+            ]
+          },
+          {
+            "partNumber": 3,
+            "title": "CHRZEŚCIJAŃSKI TRYB ŻYCIA",
+            "color": "#932824",
+            "items": [
+              {
+                "title": "8. Pokonywanie trudności związanych ze studium osobistym",
+                "offsetMinutes": 51,
+                "durationMinutes": 15
+              },
+              {
+                "title": "9. Zborowe studium Biblii ",
+                "offsetMinutes": 66,
+                "durationMinutes": 30,
+                "shortenByDelay": true
+              },
+              {
+                "title": "Uwagi końcowe",
+                "offsetMinutes": 96,
+                "durationMinutes": 3
+              }
+            ]
+          }
+        ]
+      },
+      "sunday": {
+        "parts": [
+          {
+            "partNumber": 1,
+            "title": "Zebranie",
+            "color": "#305054",
+            "items": [
+              {
+                "title": "Wykład",
+                "offsetMinutes": 5,
+                "durationMinutes": 30
+              },
+              {
+                "title": "Studium Strażnicy",
+                "offsetMinutes": 40,
+                "durationMinutes": 60,
+                "shortenByDelay": true
+              }
+            ]
+          },
+          {
+            "partNumber": 2,
+            "title": "Zbiórka",
+            "color": "#305054",
+            "items": [
+              {
+                "title": "Odliczanie do zbiórki",
+                "offsetMinutes": 105,
+                "durationMinutes": 5,
+                "showCountdown": true
+              },
+              {
+                "title": "Zbiórka",
+                "offsetMinutes": 110,
+                "durationMinutes": 5
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "weekStartDate": "2026-04-27",
+      "weekday": {
+        "parts": [
+          {
+            "partNumber": 1,
+            "title": "SKARBY ZE SŁOWA BOŻEGO",
+            "color": "#286975",
+            "items": [
+              {
+                "title": "Uwagi wstępne",
+                "offsetMinutes": 5,
+                "durationMinutes": 1
+              },
+              {
+                "title": "1. Cieszymy się, że Jehowa jest naszym Bogiem",
+                "offsetMinutes": 6,
+                "durationMinutes": 10
+              },
+              {
+                "title": "2. Wyszukujemy duchowe skarby",
+                "offsetMinutes": 16,
+                "durationMinutes": 10
+              },
+              {
+                "title": "3. Czytanie Biblii",
+                "offsetMinutes": 26,
+                "durationMinutes": 4
+              },
+              {
+                "title": "Porady",
+                "offsetMinutes": 30,
+                "durationMinutes": 1
+              }
+            ]
+          },
+          {
+            "partNumber": 2,
+            "title": "ULEPSZAJMY SWOJĄ SŁUŻBĘ",
+            "color": "#AB7800",
+            "items": [
+              {
+                "title": "4. Rozpoczynanie rozmowy",
+                "offsetMinutes": 31,
+                "durationMinutes": 3
+              },
+              {
+                "title": "Porady",
+                "offsetMinutes": 34,
+                "durationMinutes": 1
+              },
+              {
+                "title": "5. Wyjaśnianie swoich wierzeń",
+                "offsetMinutes": 35,
+                "durationMinutes": 5
+              },
+              {
+                "title": "Porady",
+                "offsetMinutes": 40,
+                "durationMinutes": 1
+              },
+              {
+                "title": "6. Pozyskiwanie uczniów",
+                "offsetMinutes": 41,
+                "durationMinutes": 4
+              },
+              {
+                "title": "Porady",
+                "offsetMinutes": 45,
+                "durationMinutes": 1
+              }
+            ]
+          },
+          {
+            "partNumber": 3,
+            "title": "CHRZEŚCIJAŃSKI TRYB ŻYCIA",
+            "color": "#932824",
+            "items": [
+              {
+                "title": "7. Nigdy nie przestawaj mówić o Jehowie",
+                "offsetMinutes": 51,
+                "durationMinutes": 15
+              },
+              {
+                "title": "8. Zborowe studium Biblii ",
+                "offsetMinutes": 66,
+                "durationMinutes": 30,
+                "shortenByDelay": true
+              },
+              {
+                "title": "Uwagi końcowe",
+                "offsetMinutes": 96,
+                "durationMinutes": 3
+              }
+            ]
+          }
+        ]
+      },
+      "sunday": {
+        "parts": [
+          {
+            "partNumber": 1,
+            "title": "Zebranie",
+            "color": "#305054",
+            "items": [
+              {
+                "title": "Wykład",
+                "offsetMinutes": 5,
+                "durationMinutes": 30
+              },
+              {
+                "title": "Studium Strażnicy",
+                "offsetMinutes": 40,
+                "durationMinutes": 60,
+                "shortenByDelay": true
+              }
+            ]
+          },
+          {
+            "partNumber": 2,
+            "title": "Zbiórka",
+            "color": "#305054",
+            "items": [
+              {
+                "title": "Odliczanie do zbiórki",
+                "offsetMinutes": 105,
+                "durationMinutes": 5,
+                "showCountdown": true
+              },
+              {
+                "title": "Zbiórka",
+                "offsetMinutes": 110,
+                "durationMinutes": 5
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "weekStartDate": "2026-05-04",
       "weekday": {
         "parts": [
           {
@@ -1996,7 +2423,442 @@
           }
         ]
       }
+    },
+
+    {
+      "weekStartDate": "2026-05-11",
+      "weekday": {
+        "parts": [
+          {
+            "partNumber": 1,
+            "title": "SKARBY ZE SŁOWA BOŻEGO",
+            "color": "#286975",
+            "items": [
+              {
+                "title": "Uwagi wstępne",
+                "offsetMinutes": 5,
+                "durationMinutes": 1
+              },
+              {
+                "title": "1. Powstań, Jerozolimo, zajaśniej",
+                "offsetMinutes": 6,
+                "durationMinutes": 10
+              },
+              {
+                "title": "2. Wyszukujemy duchowe skarby",
+                "offsetMinutes": 16,
+                "durationMinutes": 10
+              },
+              {
+                "title": "3. Czytanie Biblii",
+                "offsetMinutes": 26,
+                "durationMinutes": 4
+              },
+              {
+                "title": "Porady",
+                "offsetMinutes": 30,
+                "durationMinutes": 1
+              }
+            ]
+          },
+          {
+            "partNumber": 2,
+            "title": "ULEPSZAJMY SWOJĄ SŁUŻBĘ",
+            "color": "#AB7800",
+            "items": [
+              {
+                "title": "4.Rozpoczynanie rozmowy",
+                "offsetMinutes": 31,
+                "durationMinutes": 3
+              },
+              {
+                "title": "Porady",
+                "offsetMinutes": 34,
+                "durationMinutes": 1
+              },
+              {
+                "title": "5.Podtrzymywanie zainteresowania ",
+                "offsetMinutes": 35,
+                "durationMinutes": 4
+              },
+              {
+                "title": "Porady",
+                "offsetMinutes": 39,
+                "durationMinutes": 1
+              },
+              {
+                "title": "6. Pozyskiwanie uczniów ",
+                "offsetMinutes": 40,
+                "durationMinutes": 5
+              },
+              {
+                "title": "Porady",
+                "offsetMinutes": 45,
+                "durationMinutes": 1
+              }
+            ]
+          },
+          {
+            "partNumber": 3,
+            "title": "CHRZEŚCIJAŃSKI TRYB ŻYCIA",
+            "color": "#932824",
+            "items": [
+              {
+                "title": "7. Sprawozdanie Ciała Kierowniczego nr. 3 ",
+                "offsetMinutes": 51,
+                "durationMinutes": 15
+              },
+              {
+                "title": "8. Uwagi końcowe ",
+                "offsetMinutes": 66,
+                "durationMinutes": 3,
+                "shortenByDelay": true
+              },
+              {
+                "title": "Przemówienie Nadzorcy obwodu",
+                "offsetMinutes": 69,
+                "durationMinutes": 30
+              }
+            ]
+          }
+        ]
+      },
+      "sunday": {
+        "parts": [
+          {
+            "partNumber": 1,
+            "title": "Zebranie",
+            "color": "#305054",
+            "items": [
+              {
+                "title": "Wykład",
+                "offsetMinutes": 5,
+                "durationMinutes": 30
+              },
+              {
+                "title": "Studium Strażnicy",
+                "offsetMinutes": 40,
+                "durationMinutes": 30,
+                "shortenByDelay": true
+              },
+              {
+                "title": "Przemówienie końcowe Nadzorcy Obwodu",
+                "offsetMinutes": 70,
+                "durationMinutes": 30,
+                "shortenByDelay": true
+              }
+            ]
+          },
+          {
+            "partNumber": 2,
+            "title": "Zbiórka",
+            "color": "#305054",
+            "items": [
+              {
+                "title": "Odliczanie do zbiórki",
+                "offsetMinutes": 105,
+                "durationMinutes": 5,
+                "showCountdown": true
+              },
+              {
+                "title": "Zbiórka",
+                "offsetMinutes": 110,
+                "durationMinutes": 5
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "weekStartDate": "2026-05-18",
+      "weekday": {
+        "parts": [
+          {
+            "partNumber": 1,
+            "title": "SKARBY ZE SŁOWA BOŻEGO",
+            "color": "#286975",
+            "items": [
+              {
+                "title": "Uwagi wstępne",
+                "offsetMinutes": 5,
+                "durationMinutes": 1
+              },
+              {
+                "title": "1. Kochający i współczujący Garncarz ",
+                "offsetMinutes": 6,
+                "durationMinutes": 10
+              },
+              {
+                "title": "2. Wyszukujemy duchowe skarby",
+                "offsetMinutes": 16,
+                "durationMinutes": 10
+              },
+              {
+                "title": "3. Czytanie Biblii",
+                "offsetMinutes": 26,
+                "durationMinutes": 4
+              },
+              {
+                "title": "Porady",
+                "offsetMinutes": 30,
+                "durationMinutes": 1
+              }
+            ]
+          },
+          {
+            "partNumber": 2,
+            "title": "ULEPSZAJMY SWOJĄ SŁUŻBĘ",
+            "color": "#AB7800",
+            "items": [
+              {
+                "title": "4.Rozpoczynanie rozmowy",
+                "offsetMinutes": 31,
+                "durationMinutes": 3
+              },
+              {
+                "title": "Porady",
+                "offsetMinutes": 34,
+                "durationMinutes": 1
+              },
+              {
+                "title": "5.Podtrzymywanie zainteresowania ",
+                "offsetMinutes": 35,
+                "durationMinutes": 4
+              },
+              {
+                "title": "Porady",
+                "offsetMinutes": 39,
+                "durationMinutes": 1
+              },
+              {
+                "title": "6. Pozyskiwanie uczniów ",
+                "offsetMinutes": 40,
+                "durationMinutes": 5
+              },
+              {
+                "title": "Porady",
+                "offsetMinutes": 45,
+                "durationMinutes": 1
+              }
+            ]
+          },
+          {
+            "partNumber": 3,
+            "title": "CHRZEŚCIJAŃSKI TRYB ŻYCIA",
+            "color": "#932824",
+            "items": [
+              {
+                "title": "7. Przygotuj się na wypadek katastrofy — oczekuj nieoczekiwanego",
+                "offsetMinutes": 51,
+                "durationMinutes": 15
+              },
+              {
+                "title": "8. Zborowe studium Biblii ",
+                "offsetMinutes": 66,
+                "durationMinutes": 30,
+                "shortenByDelay": true
+              },
+              {
+                "title": "Uwagi końcowe",
+                "offsetMinutes": 96,
+                "durationMinutes": 3
+              }
+            ]
+          }
+        ]
+      },
+      "sunday": {
+        "parts": [
+          {
+            "partNumber": 1,
+            "title": "Zebranie",
+            "color": "#305054",
+            "items": [
+              {
+                "title": "Wykład",
+                "offsetMinutes": 5,
+                "durationMinutes": 30
+              },
+              {
+                "title": "Studium Strażnicy",
+                "offsetMinutes": 40,
+                "durationMinutes": 60,
+                "shortenByDelay": true
+              }
+            ]
+          },
+          {
+            "partNumber": 2,
+            "title": "Zbiórka",
+            "color": "#305054",
+            "items": [
+              {
+                "title": "Odliczanie do zbiórki",
+                "offsetMinutes": 105,
+                "durationMinutes": 5,
+                "showCountdown": true
+              },
+              {
+                "title": "Zbiórka",
+                "offsetMinutes": 110,
+                "durationMinutes": 5
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "weekStartDate": "2026-05-25",
+      "weekday": {
+        "parts": [
+          {
+            "partNumber": 1,
+            "title": "SKARBY ZE SŁOWA BOŻEGO",
+            "color": "#286975",
+            "items": [
+              {
+                "title": "Uwagi wstępne",
+                "offsetMinutes": 5,
+                "durationMinutes": 1
+              },
+              {
+                "title": "1. Kochamy raj duchowy! ",
+                "offsetMinutes": 6,
+                "durationMinutes": 10
+              },
+              {
+                "title": "2. Wyszukujemy duchowe skarby",
+                "offsetMinutes": 16,
+                "durationMinutes": 10
+              },
+              {
+                "title": "3. Czytanie Biblii",
+                "offsetMinutes": 26,
+                "durationMinutes": 4
+              },
+              {
+                "title": "Porady",
+                "offsetMinutes": 30,
+                "durationMinutes": 1
+              }
+            ]
+          },
+          {
+            "partNumber": 2,
+            "title": "ULEPSZAJMY SWOJĄ SŁUŻBĘ",
+            "color": "#AB7800",
+            "items": [
+              {
+                "title": "4.Rozpoczynanie rozmowy",
+                "offsetMinutes": 31,
+                "durationMinutes": 3
+              },
+              {
+                "title": "Porady",
+                "offsetMinutes": 34,
+                "durationMinutes": 1
+              },
+              {
+                "title": "5.Rozpoczynanie rozmowy ",
+                "offsetMinutes": 35,
+                "durationMinutes": 2
+              },
+              {
+                "title": "Porady",
+                "offsetMinutes": 37,
+                "durationMinutes": 1
+              },
+              {
+                "title": "6. Rozpoczynanie rozmowy  ",
+                "offsetMinutes": 38,
+                "durationMinutes": 3
+              },
+              {
+                "title": "Porady",
+                "offsetMinutes": 41,
+                "durationMinutes": 1
+              },
+              {
+                "title": "7. Wyjaśnianie swoich wierzeń ",
+                "offsetMinutes": 42,
+                "durationMinutes": 3
+              },
+              {
+                "title": "Porady",
+                "offsetMinutes": 45,
+                "durationMinutes": 1
+              }
+            ]
+          },
+          {
+            "partNumber": 3,
+            "title": "CHRZEŚCIJAŃSKI TRYB ŻYCIA",
+            "color": "#932824",
+            "items": [
+              {
+                "title": "8. Czy coś cię omija?",
+                "offsetMinutes": 51,
+                "durationMinutes": 15
+              },
+              {
+                "title": "9. Zborowe studium Biblii ",
+                "offsetMinutes": 66,
+                "durationMinutes": 30,
+                "shortenByDelay": true
+              },
+              {
+                "title": "Uwagi końcowe",
+                "offsetMinutes": 96,
+                "durationMinutes": 3
+              }
+            ]
+          }
+        ]
+      },
+      "sunday": {
+        "parts": [
+          {
+            "partNumber": 1,
+            "title": "Zebranie",
+            "color": "#305054",
+            "items": [
+              {
+                "title": "Wykład",
+                "offsetMinutes": 5,
+                "durationMinutes": 30
+              },
+              {
+                "title": "Studium Strażnicy",
+                "offsetMinutes": 40,
+                "durationMinutes": 60,
+                "shortenByDelay": true
+              }
+            ]
+          },
+          {
+            "partNumber": 2,
+            "title": "Zbiórka",
+            "color": "#305054",
+            "items": [
+              {
+                "title": "Odliczanie do zbiórki",
+                "offsetMinutes": 105,
+                "durationMinutes": 5,
+                "showCountdown": true
+              },
+              {
+                "title": "Zbiórka",
+                "offsetMinutes": 110,
+                "durationMinutes": 5
+              }
+            ]
+          }
+        ]
+      }
     }
+
 
   ]
 }

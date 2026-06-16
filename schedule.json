@@ -3155,6 +3155,150 @@
           }
         ]
       }
+    },
+    {
+      "weekStartDate": "2026-06-08",
+      "weekday": {
+        "parts": [
+          {
+            "partNumber": 1,
+            "title": "SKARBY ZE SŁOWA BOŻEGO",
+            "color": "#286975",
+            "items": [
+              {
+                "title": "Uwagi wstępne",
+                "offsetMinutes": 5,
+                "durationMinutes": 1
+              },
+              {
+                "title": "1. Traktowali świątynię Jehowy z pogardą",
+                "offsetMinutes": 6,
+                "durationMinutes": 10
+              },
+              {
+                "title": "2. Wyszukujemy duchowe skarby",
+                "offsetMinutes": 16,
+                "durationMinutes": 10
+              },
+              {
+                "title": "3. Czytanie Biblii",
+                "offsetMinutes": 26,
+                "durationMinutes": 4
+              },
+              {
+                "title": "Porady",
+                "offsetMinutes": 30,
+                "durationMinutes": 1
+              }
+            ]
+          },
+          {
+            "partNumber": 2,
+            "title": "ULEPSZAJMY SWOJĄ SŁUŻBĘ",
+            "color": "#AB7800",
+            "items": [
+              {
+                "title": "4.Rozpoczynanie rozmowy",
+                "offsetMinutes": 31,
+                "durationMinutes": 3
+              },
+              {
+                "title": "Porady",
+                "offsetMinutes": 34,
+                "durationMinutes": 1
+              },
+              {
+                "title": "5.Rozpoczynanie rozmowy",
+                "offsetMinutes": 35,
+                "durationMinutes": 4
+              },
+              {
+                "title": "Porady",
+                "offsetMinutes": 39,
+                "durationMinutes": 1
+              },
+              {
+                "title": "Pozyskiwanie uczniów",
+                "offsetMinutes": 40,
+                "durationMinutes": 5
+              },
+              {
+                "title": "Porady",
+                "offsetMinutes": 45,
+                "durationMinutes": 1
+              }
+            ]
+          },
+          {
+            "partNumber": 3,
+            "title": "CHRZEŚCIJAŃSKI TRYB ŻYCIA",
+            "color": "#932824",
+            "items": [
+              {
+                "title": "7. Jak możemy pokazać, że szanujemy naszą Salę Królestwa",
+                "offsetMinutes": 51,
+                "durationMinutes": 5
+              },
+              {
+                "title": "8. Jak są wykorzystywane twoje datki — jak dbamy o nasze Sale Królestwa",
+                "offsetMinutes": 56,
+                "durationMinutes": 10
+              },
+              {
+                "title": "10. Zborowe studium Biblii ",
+                "offsetMinutes": 66,
+                "durationMinutes": 30,
+                "shortenByDelay": true
+              },
+              {
+                "title": "Uwagi końcowe",
+                "offsetMinutes": 96,
+                "durationMinutes": 3
+              }
+            ]
+          }
+        ]
+      },
+      "sunday": {
+        "parts": [
+          {
+            "partNumber": 1,
+            "title": "Zebranie",
+            "color": "#305054",
+            "items": [
+              {
+                "title": "Wykład",
+                "offsetMinutes": 5,
+                "durationMinutes": 30
+              },
+              {
+                "title": "Studium Strażnicy",
+                "offsetMinutes": 40,
+                "durationMinutes": 60,
+                "shortenByDelay": true
+              }
+            ]
+          },
+          {
+            "partNumber": 2,
+            "title": "Zbiórka",
+            "color": "#305054",
+            "items": [
+              {
+                "title": "Odliczanie do zbiórki",
+                "offsetMinutes": 105,
+                "durationMinutes": 5,
+                "showCountdown": true
+              },
+              {
+                "title": "Zbiórka",
+                "offsetMinutes": 110,
+                "durationMinutes": 5
+              }
+            ]
+          }
+        ]
+      }
     }
 
 

@@ -5838,7 +5838,7 @@
       }
     },
     {
-      "weekStartDate": "2026-09-14",
+      "weekStartDate": "2026-10-05",
       "weekday": {
         "parts": [
           {
@@ -5852,7 +5852,7 @@
                 "durationMinutes": 1
               },
               {
-                "title": "1. Jehowa nagradza tych, którzy są posłuszni",
+                "title": "1. Miej właściwy pogląd na ochronę Jehowy",
                 "offsetMinutes": 6,
                 "durationMinutes": 10
               },
@@ -5899,19 +5899,19 @@
                 "durationMinutes": 1
               },
               {
-                "title": "6. Podtrzymywanie zainteresowania",
+                "title": "6. Rozpoczynanie rozmowy",
                 "offsetMinutes": 37,
-                "durationMinutes": 3
+                "durationMinutes": 4
               },
               {
                 "title": "Porady",
-                "offsetMinutes": 40,
+                "offsetMinutes": 41,
                 "durationMinutes": 1
               },
               {
-                "title": "7. Pozyskiwanie uczniów",
-                "offsetMinutes": 41,
-                "durationMinutes": 4
+                "title": "7. Wyjaśnianie swoich wierzeń",
+                "offsetMinutes": 42,
+                "durationMinutes": 3
               },
               {
                 "title": "Porady",
@@ -5926,17 +5926,12 @@
             "color": "#932824",
             "items": [
               {
-                "title": "8. Panowanie nad sobą pomaga być posłusznym",
+                "title": "8. Jehowa jest obrońcą dla wdów",
                 "offsetMinutes": 51,
-                "durationMinutes": 6
+                "durationMinutes": 15
               },
               {
-                "title": "9. Osiągnięcia organizacji",
-                "offsetMinutes": 57,
-                "durationMinutes": 9
-              },
-              {
-                "title": "10. Zborowe studium Biblii ",
+                "title": "9. Zborowe studium Biblii ",
                 "offsetMinutes": 66,
                 "durationMinutes": 30,
                 "shortenByDelay": true
@@ -5987,12 +5982,6 @@
                 "durationMinutes": 5
               }
             ]
-          }
-        ]
-      }
-    },
-    {
-      "weekStartDate": "2026-09-21",
           }
         ]
       }
@@ -6360,140 +6349,6 @@
             "items": [
               {
                 "title": "7. Zachowujmy neutralność w naszych sercach",
-                "offsetMinutes": 51,
-                "durationMinutes": 15
-              },
-              {
-                "title": "8. Zborowe studium Biblii ",
-                "offsetMinutes": 66,
-                "durationMinutes": 30,
-                "shortenByDelay": true
-              },
-              {
-                "title": "Uwagi końcowe",
-                "offsetMinutes": 96,
-                "durationMinutes": 3
-              }
-            ]
-          }
-        ]
-      },
-      "sunday": {
-        "parts": [
-          {
-            "partNumber": 1,
-            "title": "Zebranie",
-            "color": "#305054",
-            "items": [
-              {
-                "title": "Wykład",
-                "offsetMinutes": 5,
-                "durationMinutes": 30
-              },
-              {
-                "title": "Studium Strażnicy",
-                "offsetMinutes": 40,
-                "durationMinutes": 60,
-                "shortenByDelay": true
-              }
-            ]
-          },
-          {
-            "partNumber": 2,
-            "title": "Zbiórka",
-            "color": "#305054",
-            "items": [
-              {
-                "title": "Odliczanie do zbiórki",
-                "offsetMinutes": 105,
-                "durationMinutes": 5,
-                "showCountdown": true
-              },
-              {
-                "title": "Zbiórka",
-                "offsetMinutes": 110,
-                "durationMinutes": 5
-              }
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "weekStartDate": "2026-09-28",
-      "weekday": {
-        "parts": [
-          {
-            "partNumber": 1,
-            "title": "SKARBY ZE SŁOWA BOŻEGO",
-            "color": "#286975",
-            "items": [
-              {
-                "title": "Uwagi wstępne",
-                "offsetMinutes": 5,
-                "durationMinutes": 1
-              },
-              {
-                "title": "1. Dalej pomagajmy sobie nawzajem",
-                "offsetMinutes": 6,
-                "durationMinutes": 10
-              },
-              {
-                "title": "2. Wyszukujemy duchowe skarby",
-                "offsetMinutes": 16,
-                "durationMinutes": 10
-              },
-              {
-                "title": "3. Czytanie Biblii",
-                "offsetMinutes": 26,
-                "durationMinutes": 4
-              },
-              {
-                "title": "Porady",
-                "offsetMinutes": 30,
-                "durationMinutes": 1
-              }
-            ]
-          },
-          {
-            "partNumber": 2,
-            "title": "ULEPSZAJMY SWOJĄ SŁUŻBĘ",
-            "color": "#AB7800",
-            "items": [
-              {
-                "title": "4.Rozpoczynanie rozmowy",
-                "offsetMinutes": 31,
-                "durationMinutes": 3
-              },
-              {
-                "title": "Porady",
-                "offsetMinutes": 34,
-                "durationMinutes": 1
-              },
-              {
-                "title": "5. Podtrzymywanie zainteresowania",
-                "offsetMinutes": 35,
-                "durationMinutes": 4
-              },
-              {
-                "title": "Porady",
-                "offsetMinutes": 39,
-                "durationMinutes": 1
-              },
-              {
-                "title": "6. Co byś powiedział?",
-                "offsetMinutes": 40,
-                "durationMinutes": 6
-              }
-            ]
-          },
-          {
-            "partNumber": 3,
-            "title": "CHRZEŚCIJAŃSKI TRYB ŻYCIA",
-            "color": "#932824",
-            "items": [
-              {
-                "title": "7. Miejscowe potrzeby",
                 "offsetMinutes": 51,
                 "durationMinutes": 15
               },
